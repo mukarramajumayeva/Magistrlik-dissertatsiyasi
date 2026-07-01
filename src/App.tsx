@@ -283,7 +283,7 @@ const quizQuestions = {
 };
 
 export default function App() {
-  const [activeTab, setActiveTab] = constState("Asosiy Panel");
+  const [activeTab, setActiveTab] = useState("Asosiy Panel");
   const [lang, setLang] = useState<"uz" | "en">("uz");
   
   // Custom Simulator State for Interactive Analysis
