@@ -1,0 +1,6 @@
+{
+  "name": "XXI Asr Ko'nikmalari Tahlili",
+  "description": "Guliston davlat pedagogika instituti magistranti M.B. Jumayevaning ilmiy dissertatsiyasi tahliliy va interaktiv dashboard ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
